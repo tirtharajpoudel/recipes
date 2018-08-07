@@ -1,0 +1,9 @@
+Ingredients:
+ - Lentil
+ - Rice
+
+
+Directions:
+ 1. Cook lentil.
+ 
+ 2. Cook rice.
